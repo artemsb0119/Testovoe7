@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Testovoe7</string>
+    <string name="news">NEWS</string>
+    <string name="favourite">FAVOURITE</string>
+    <string name="settings">SETTINGS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">NEXT</string>
+    <string name="choose_your_favourite_news">CHOOSE YOUR FAVOURITE NEWS</string>
+    <string name="offer_news">OFFER NEWS</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="background">BACKGROUND</string>
+</resources>
